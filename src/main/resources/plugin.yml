@@ -1,0 +1,11 @@
+name: FireworkProjectiles
+version: 0.1
+main: com.tsunderebug.fireworkprojectiles.FireworkProjectiles
+
+commands:
+  tfw:
+    description: Test your firework at your position (can be deadly)
+    usage: /tfw
+  fws:
+    description: Set firework
+    usage: /fws
